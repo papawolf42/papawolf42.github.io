@@ -3,7 +3,7 @@ title: git submodule 적용하기
 tags: "git submodule"
 ---
 
-# git submodule 만들기
+# git submodule 적용하기
 
 ![image-20210602222714224](/Users/gunkim/Library/Application Support/typora-user-images/image-20210602222714224.png)
 
