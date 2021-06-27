@@ -14,17 +14,18 @@ subject에서는 이 과제 이후 2가지가 바뀔 것이라고 언급되어�
 
 ![](https://lh3.googleusercontent.com/pw/AM-JKLWrdoqXRjVog-ZfhG9uewVUhCJgOOqiUTrQvT2i5OdEVINWQekTGU3Iz7V3rwD95KmpgyDpo0B_RHpYxou55M0IppwDDGQoC7kC6EoQDbBnFG1dzRfcGcOfXn2wAMu7EfAvkf8zVP57qZv9njGOBn8k=w3008-h3062-no?authuser=3)
 
-suhshin님이 디자인하신 장면입니다.
+- suhshin님이 디자인하신 장면
 
 
 
 miniRT를 했던 경험을 조금 나누려고 합니다. 
 
 1. subject 둘러보기
-2. 선형대수학 공부는 어떤식으로?
-3. 참고한 사이트 추천(ray tracing in one weekend, scratch a pixel, 다양한 git 등등)
-4. 오른손 좌표계와 왼손 좌표계
-5. 오브젝트를 그리는 법
+2. mlx 라이브러리
+3. 선형대수학
+4. 참고한 사이트 추천(ray tracing in one weekend, scratch a pixel, 다양한 git 등등)
+5. 오른손 좌표계와 왼손 좌표계
+6. 오브젝트를 그리는 법
    1. 원을 그리는 법
    2. 광원을 적용하는 법
       1. 퐁 모델
@@ -33,8 +34,8 @@ miniRT를 했던 경험을 조금 나누려고 합니다.
    4. 사각형을 그리는 법
    5. 삼각형을 그리는 법
    6. 원통을 그리는 법
-6. 안티 엘리어싱(계단 현상 줄이기)
-7. 회전(rotation)과 이동(transformation)
+7. 안티 엘리어싱(계단 현상 줄이기)
+8. 회전(rotation)과 이동(transformation)
 
  이 외에도 parsing 구현, 키보드 입력의 처리, bmp format 출력 등은 RT와 관련이 적기도하고, 난이도가 어려운 개념이 아니라 다루지 않으려고 한다.
 
